@@ -4,7 +4,7 @@ The Higgs dataset has been built after monitoring the spreading processes on Twi
 source of dataset: https://snap.stanford.edu/data/higgs-twitter.html
 
 ## Overview
-This project involves a comprehensive analysis of Twitter mention networks.
+This project involves a comprehensive analysis of Twitter mention networks whith NetworkX, Gephi and Cytoscape.
 
 ## Key Features
 - **Network Analysis:**
